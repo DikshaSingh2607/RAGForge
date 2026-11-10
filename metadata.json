@@ -1,0 +1,6 @@
+{
+  "name": "RAGForge — From-Scratch Hybrid RAG Engine & Benchmark",
+  "description": "Production-grade retrieval-augmented generation engine with hand-written BM25 & HNSW indexes, RRF hybrid fusion, reranking, evaluation harness, and architecture workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
